@@ -1,0 +1,27 @@
+
+d.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+d1
+  rotate: false
+  xy: 2, 215
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 24
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 204, 215
+  size: 200, 189
+  orig: 200, 189
+  offset: 0, 0
+  index: -1

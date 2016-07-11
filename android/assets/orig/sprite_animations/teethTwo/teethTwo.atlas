@@ -1,0 +1,41 @@
+
+teethTwo.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethTwo01
+  rotate: false
+  xy: 2, 582
+  size: 359, 288
+  orig: 359, 288
+  offset: 0, 0
+  index: -1
+teethTwo02
+  rotate: false
+  xy: 2, 292
+  size: 359, 288
+  orig: 359, 288
+  offset: 0, 0
+  index: -1
+teethTwo03
+  rotate: false
+  xy: 363, 582
+  size: 359, 288
+  orig: 359, 288
+  offset: 0, 0
+  index: -1
+teethTwo04
+  rotate: false
+  xy: 2, 2
+  size: 359, 288
+  orig: 359, 288
+  offset: 0, 0
+  index: -1
+teethTwo05
+  rotate: false
+  xy: 363, 292
+  size: 359, 288
+  orig: 359, 288
+  offset: 0, 0
+  index: -1

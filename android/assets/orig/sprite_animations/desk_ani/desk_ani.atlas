@@ -1,0 +1,78 @@
+
+desk_ani.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani1
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1
+
+desk_ani2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani2
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1
+
+desk_ani3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani3
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1
+
+desk_ani4.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani4
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1
+
+desk_ani5.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani5
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1
+
+desk_ani6.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+desk_ani6
+  rotate: false
+  xy: 2, 2
+  size: 618, 1008
+  orig: 618, 1008
+  offset: 0, 0
+  index: -1

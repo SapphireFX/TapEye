@@ -1,0 +1,53 @@
+
+teethOne.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethOne01
+  rotate: false
+  xy: 2, 208
+  size: 359, 514
+  orig: 359, 514
+  offset: 0, 0
+  index: -1
+teethOne02
+  rotate: false
+  xy: 363, 208
+  size: 359, 514
+  orig: 359, 514
+  offset: 0, 0
+  index: -1
+
+teethOne2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethOne03
+  rotate: false
+  xy: 2, 208
+  size: 359, 514
+  orig: 359, 514
+  offset: 0, 0
+  index: -1
+teethOne04
+  rotate: false
+  xy: 363, 208
+  size: 359, 514
+  orig: 359, 514
+  offset: 0, 0
+  index: -1
+
+teethOne3.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethOne05
+  rotate: false
+  xy: 2, 2
+  size: 359, 514
+  orig: 359, 514
+  offset: 0, 0
+  index: -1

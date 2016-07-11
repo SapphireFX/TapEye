@@ -1,0 +1,47 @@
+
+bossPack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss01
+  rotate: false
+  xy: 2, 426
+  size: 400, 422
+  orig: 400, 422
+  offset: 0, 0
+  index: -1
+boss02
+  rotate: false
+  xy: 2, 2
+  size: 400, 422
+  orig: 400, 422
+  offset: 0, 0
+  index: -1
+boss03
+  rotate: false
+  xy: 404, 426
+  size: 400, 422
+  orig: 400, 422
+  offset: 0, 0
+  index: -1
+boss04
+  rotate: false
+  xy: 404, 2
+  size: 400, 422
+  orig: 400, 422
+  offset: 0, 0
+  index: -1
+
+bossPack2.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boss05
+  rotate: false
+  xy: 2, 2
+  size: 400, 422
+  orig: 400, 422
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,349 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 782, 994
+  size: 744, 1052
+  orig: 744, 1052
+  offset: 0, 0
+  index: -1
+beam
+  rotate: false
+  xy: 1915, 210
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+beam1
+  rotate: false
+  xy: 1915, 210
+  size: 103, 105
+  orig: 103, 105
+  offset: 0, 0
+  index: -1
+border
+  rotate: false
+  xy: 2, 973
+  size: 778, 1073
+  orig: 778, 1073
+  offset: 0, 0
+  index: -1
+btnclose
+  rotate: false
+  xy: 1965, 1973
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+btnmusic
+  rotate: false
+  xy: 509, 27
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+btnoff
+  rotate: false
+  xy: 1965, 1898
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+btnsettingseng
+  rotate: false
+  xy: 1529, 4
+  size: 332, 151
+  orig: 332, 151
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 1481, 355
+  size: 416, 195
+  orig: 416, 195
+  offset: 0, 0
+  index: -1
+changeeffect
+  rotate: false
+  xy: 1830, 1034
+  size: 200, 100
+  orig: 200, 100
+  offset: 0, 0
+  index: -1
+colorprimitive
+  rotate: false
+  xy: 1915, 158
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+cup
+  rotate: false
+  xy: 1528, 1570
+  size: 435, 476
+  orig: 435, 476
+  offset: 0, 0
+  index: -1
+deadFly
+  rotate: false
+  xy: 1830, 1136
+  size: 200, 204
+  orig: 200, 204
+  offset: 0, 0
+  index: -1
+deskBack
+  rotate: false
+  xy: 1528, 1035
+  size: 300, 533
+  orig: 300, 533
+  offset: 0, 0
+  index: -1
+flame1
+  rotate: false
+  xy: 1863, 45
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+flame3
+  rotate: false
+  xy: 1915, 317
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1830, 1342
+  size: 200, 226
+  orig: 200, 226
+  offset: 0, 0
+  index: -1
+klyaksa
+  rotate: false
+  xy: 222, 2
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1481, 552
+  size: 548, 440
+  orig: 548, 440
+  offset: 0, 0
+  index: -1
+logobackground
+  rotate: false
+  xy: 2, 102
+  size: 806, 869
+  orig: 806, 869
+  offset: 0, 0
+  index: -1
+orangeeye
+  rotate: false
+  xy: 810, 325
+  size: 669, 667
+  orig: 669, 667
+  offset: 0, 0
+  index: -1
+pauseMenu
+  rotate: false
+  xy: 415, 19
+  size: 92, 81
+  orig: 92, 81
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1529, 157
+  size: 384, 196
+  orig: 384, 196
+  offset: 0, 0
+  index: -1
+respawn
+  rotate: false
+  xy: 584, 40
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: false
+  xy: 324, 11
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+smoke1
+  rotate: false
+  xy: 1965, 1842
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+tablo
+  rotate: false
+  xy: 810, 32
+  size: 717, 291
+  orig: 717, 291
+  offset: 0, 0
+  index: -1
+vv1
+  rotate: false
+  xy: 1899, 429
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+window
+  rotate: false
+  xy: 2, 5
+  size: 218, 95
+  split: 0, 0, 49, 31
+  orig: 218, 95
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DeadEvilFly
+  rotate: false
+  xy: 1636, 309
+  size: 200, 184
+  orig: 200, 184
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 1884, 663
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+btn1normal
+  rotate: false
+  xy: 611, 164
+  size: 332, 160
+  orig: 332, 160
+  offset: 0, 0
+  index: -1
+btn1pressed
+  rotate: false
+  xy: 581, 2
+  size: 332, 160
+  orig: 332, 160
+  offset: 0, 0
+  index: -1
+btn2normal
+  rotate: false
+  xy: 1252, 587
+  size: 382, 154
+  orig: 382, 154
+  offset: 0, 0
+  index: -1
+btn2pressed
+  rotate: false
+  xy: 1252, 431
+  size: 382, 154
+  orig: 382, 154
+  offset: 0, 0
+  index: -1
+btn3normal
+  rotate: false
+  xy: 1670, 765
+  size: 351, 173
+  orig: 351, 173
+  offset: 0, 0
+  index: -1
+btn3pressed
+  rotate: false
+  xy: 1252, 256
+  size: 351, 173
+  orig: 351, 173
+  offset: 0, 0
+  index: -1
+btnplayeng
+  rotate: false
+  xy: 945, 176
+  size: 295, 148
+  orig: 295, 148
+  offset: 0, 0
+  index: -1
+btnquiteng
+  rotate: false
+  xy: 1242, 91
+  size: 309, 163
+  orig: 309, 163
+  offset: 0, 0
+  index: -1
+circle
+  rotate: false
+  xy: 1884, 561
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+eyered
+  rotate: false
+  xy: 1636, 495
+  size: 246, 246
+  orig: 246, 246
+  offset: 0, 0
+  index: -1
+greeneye
+  rotate: false
+  xy: 1553, 154
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+heart
+  rotate: false
+  xy: 1553, 52
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+logo2
+  rotate: false
+  xy: 611, 326
+  size: 639, 612
+  orig: 639, 612
+  offset: 0, 0
+  index: -1
+moveeye1
+  rotate: false
+  xy: 1838, 311
+  size: 183, 182
+  orig: 183, 182
+  offset: 0, 0
+  index: -1
+popupmenubackground
+  rotate: false
+  xy: 2, 222
+  size: 607, 716
+  orig: 607, 716
+  offset: 0, 0
+  index: -1
+quit
+  rotate: false
+  xy: 1252, 743
+  size: 416, 195
+  orig: 416, 195
+  offset: 0, 0
+  index: -1
+settings
+  rotate: false
+  xy: 2, 4
+  size: 577, 216
+  orig: 577, 216
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+
+teethThree.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethThree01
+  rotate: false
+  xy: 2, 490
+  size: 485, 484
+  orig: 485, 484
+  offset: 0, 0
+  index: -1
+teethThree02
+  rotate: false
+  xy: 2, 4
+  size: 485, 484
+  orig: 485, 484
+  offset: 0, 0
+  index: -1
+teethThree03
+  rotate: false
+  xy: 489, 490
+  size: 485, 484
+  orig: 485, 484
+  offset: 0, 0
+  index: -1
+teethThree04
+  rotate: false
+  xy: 489, 4
+  size: 485, 484
+  orig: 485, 484
+  offset: 0, 0
+  index: -1
+
+teethThree2.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teethThree05
+  rotate: false
+  xy: 2, 3
+  size: 485, 484
+  orig: 485, 484
+  offset: 0, 0
+  index: -1

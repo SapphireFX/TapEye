@@ -1,0 +1,142 @@
+{
+  "chapterList": [
+    {
+      "idChapter": "1",
+      "name": "Begin",
+      "levelList": [
+        {
+          "idLevel": "1",
+          "scoreForNext": "10",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            }
+          ]
+        },
+        {
+          "idLevel": "2",
+          "scoreForNext": "20",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "EVILEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            }
+          ]
+        },
+        {
+          "idLevel": "3",
+          "scoreForNext": "20",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "EVILEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "GOODFLY",
+              "lifeTime": "6",
+              "coolDown": "10",
+              "maxCount": "1"
+            }
+          ]
+        },
+        {
+          "idLevel": "4",
+          "scoreForNext": "50",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "EVILEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "GOODFLY",
+              "lifeTime": "6",
+              "coolDown": "10",
+              "maxCount": "1"
+            },
+            {
+              "type": "EVILFLY",
+              "lifeTime": "5",
+              "coolDown": "10",
+              "maxCount": "1"
+            }
+          ]
+        },
+        {
+          "idLevel": "5",
+          "scoreForNext": "100",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "EVILEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "GOODFLY",
+              "lifeTime": "5",
+              "coolDown": 10,
+              "maxCount": "1"
+            },
+            {
+              "type": "EVILFLY",
+              "lifeTime": "5",
+              "coolDown": "9",
+              "maxCount": "2"
+            }
+          ]
+        },
+        {
+          "idLevel": "6",
+          "scoreForNext": "170",
+          "monsterList": [
+            {
+              "type": "GOODEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            },
+            {
+              "type": "EVILEYE",
+              "lifeTime": "3",
+              "coolDown": 0.3,
+              "maxCount": "6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

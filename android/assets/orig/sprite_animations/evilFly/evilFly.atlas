@@ -1,0 +1,76 @@
+
+evilFly.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+evilFly1
+  rotate: false
+  xy: 2, 485
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly10
+  rotate: false
+  xy: 2, 324
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly2
+  rotate: false
+  xy: 204, 485
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly3
+  rotate: false
+  xy: 2, 163
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly4
+  rotate: false
+  xy: 204, 324
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly5
+  rotate: false
+  xy: 406, 485
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly8
+  rotate: false
+  xy: 406, 485
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly6
+  rotate: false
+  xy: 2, 2
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly7
+  rotate: false
+  xy: 204, 163
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1
+evilFly9
+  rotate: false
+  xy: 406, 324
+  size: 200, 159
+  orig: 200, 159
+  offset: 0, 0
+  index: -1

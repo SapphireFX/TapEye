@@ -1,0 +1,160 @@
+
+catBlue.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+catBlue01
+  rotate: false
+  xy: 2, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue02
+  rotate: false
+  xy: 2, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue22
+  rotate: false
+  xy: 2, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue03
+  rotate: false
+  xy: 2, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue04
+  rotate: false
+  xy: 231, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue05
+  rotate: false
+  xy: 2, 376
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue06
+  rotate: false
+  xy: 231, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue07
+  rotate: false
+  xy: 231, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue08
+  rotate: false
+  xy: 460, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue09
+  rotate: false
+  xy: 2, 189
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue10
+  rotate: false
+  xy: 231, 376
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue11
+  rotate: false
+  xy: 460, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue12
+  rotate: false
+  xy: 460, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue15
+  rotate: false
+  xy: 460, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue16
+  rotate: false
+  xy: 460, 563
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue13
+  rotate: false
+  xy: 689, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue14
+  rotate: false
+  xy: 689, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue17
+  rotate: false
+  xy: 689, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue18
+  rotate: false
+  xy: 689, 750
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue19
+  rotate: false
+  xy: 2, 2
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue20
+  rotate: false
+  xy: 231, 189
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1
+catBlue21
+  rotate: false
+  xy: 460, 376
+  size: 227, 185
+  orig: 227, 185
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+flyanimation.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flyanimation01
+  rotate: false
+  xy: 2, 264
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: -1
+flyanimation02
+  rotate: false
+  xy: 2, 122
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: -1
+flyanimation03
+  rotate: false
+  xy: 204, 264
+  size: 200, 140
+  orig: 200, 140
+  offset: 0, 0
+  index: -1
