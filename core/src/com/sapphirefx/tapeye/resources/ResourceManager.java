@@ -28,9 +28,7 @@ import java.util.HashSet;
  */
 public class ResourceManager implements IResourceRetriever, IResourceLoader
 {
-    /**
-     *  Paths (please change if different) this is the default structure exported from editor
-     */
+
     public String packResolutionName = "orig";
 
     public String scenesPath = "scenes";
